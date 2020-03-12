@@ -5,13 +5,19 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-    This is to be able to check for only one file, i am not sure about the value offered
+    This is to be able to check for only one file, it offers the hability to save
+    the changes only when you want to place all on one commit and select which files
+    will have a specific comment.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    Only adding one file if it's involved
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+    
 
 How do the diagrams help you visualize the branch structure?
 
