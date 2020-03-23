@@ -34,4 +34,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This allows to get more control on the files, one person can be in charge of this
+    task and it will be easier for him to manage the project.
